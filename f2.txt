@@ -1,0 +1,4 @@
+Command:
+Initialise working directory as "git": git init
+To send files in staging area: git add .
+To commit files to local repository: git commit -m "Message"
