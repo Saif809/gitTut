@@ -1,0 +1,7 @@
+Rolling out of Local repository to working directory:
+
+git checkout "filename"
+
+To Check Status: 
+Staging area: git status
+Local Repo: git log

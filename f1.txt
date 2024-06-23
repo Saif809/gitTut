@@ -1,0 +1,4 @@
+Directories:
+1.Working Directories
+2.Staging Area
+3.Local Repository
