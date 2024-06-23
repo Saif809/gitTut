@@ -1,0 +1,7 @@
+
+Banching:
+To check which branch you are in : "git branch"
+To create branch: "git branch <Branch Name>"
+To change branch: "git switch <Branch Name>"
+
+To Merge branch: "git merge <Branch Name>"
