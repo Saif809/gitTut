@@ -1,0 +1,21 @@
+Summary:
+
+# Add to local repo
+git init
+git add .
+git commit -m "message"
+
+# Check
+git status
+git log
+
+#Revert to working directory from local repository
+git checkout "File Name"
+
+# Branching
+git branch 
+git branch "branchNameToCreate"
+git switch "Branch to switch"
+
+#Must Remember To push on remote using:
+Command: git push origin main -u 
